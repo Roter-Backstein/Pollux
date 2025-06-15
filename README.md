@@ -1,0 +1,2 @@
+# Pollux
+Discord Voice Bot
